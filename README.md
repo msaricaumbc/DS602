@@ -155,9 +155,59 @@ Student Academic Misconduct in the Grad School is handled by the Associate Dean 
 Incidents are tracked by UMBC. Repeated infractions incur more severe penalties. 
 
 
+## Accessibility and Disability Accommodations, Guidance and Resources 
+Accommodations for students with disabilities are provided for all students with a qualified disability under the Americans with Disabilities Act (ADA & ADAAA) and Section 504 of the Rehabilitation Act who request and are eligible for accommodations. The Office of Student Disability Services (SDS) is the UMBC department designated to coordinate accommodations that creates equal access for students when barriers to participation exist in University courses, programs, or activities.
 
-## Student Disability Services (SDS)
-UMBC is committed to eliminating discriminatory obstacles that may disadvantage students based on disability. Services for students with disabilities are provided for all students qualified under the Americans with Disabilities Act is the UMBC department designated to coordinate reasonable accommodations that would allow students to have equal access and inclusion in all courses, programs, and activities of the University.
-If you have a documented disability and need to request academic accommodations, please register with the Office of Student Disability Services as soon as possible. To begin the registration process please visit the SDS website and review the registration information, including disability documentation guidelines and how to submit the SDS registration form online using the confidential data management software called Accommodate https://sds.umbc.edu/accommodations/registering-with-sds/. 
-Once accommodations have been approved, you and your instructors will be notified via an emailed accommodation letter from the SDS office.  Both the SDS office and Shady Grove's Center for Academic Successwill work with you to ensure you receive the approved accommodations. If you have any questions or concerns, please contact the Office of Student Disability Services via disAbility@umbc.edu or phone at 410-455-2459. Please note that accommodations are not retroactive and begin once SDS sends an approved accommodation letter.
-For more information on the services CAS provides, please contact Mary Gallagher or visit https://shadygrove.umd.edu/student-services/center-for-academic-success. 
+If you have a documented disability and need to request academic accommodations in your courses, please refer to the SDS website at sds.umbc.edu for registration information and office procedures.
+
+SDS email: disAbility@umbc.edu
+
+SDS phone: 410-455-2459
+
+If you will be using SDS approved accommodations in this class, please contact the instructor to discuss implementation of the accommodations. During remote instruction requirements due to COVID, communication and flexibility will be essential for success.
+
+## Sexual Assault, Sexual Harassment, and Gender Based Violence and Discrimination 
+UMBC Policy in addition to federal and state law (to include Title IX) prohibits discrimination and harassment on the basis of sex, sexual orientation, and gender identity in University programs and activities. Any student who is impacted by sexual harassment, sexual assault, domestic violence, dating violence, stalking, sexual exploitation, gender discrimination, pregnancy discrimination, gender-based harassment, or related retaliation should contact the University’s Title IX Coordinator to make a report and/or access support and resources. The Title IX Coordinator can be reached at titleixcoordinator@umbc.edu or 410-455-1717.
+
+You can access support and resources even if you do not want to take any further action. You will not be forced to file a formal complaint or police report. Please be aware that the University may take action on its own if essential to protect the safety of the community.
+
+If you are interested in making a report, please use the Online Reporting/Referral Form.  Please note that, if you report anonymously, the University’s ability to respond will be limited.
+
+### Notice that Faculty and Teaching Assistants are Responsible Employees with Mandatory Reporting Obligations
+
+All faculty members and teaching assistants are considered Responsible Employees, per UMBC’s Policy on Sexual Misconduct, Sexual Harassment, and Gender Discrimination. Faculty and teaching assistants therefore required to report all known information regarding alleged conduct that may be a violation of the Policy to the Title IX Coordinator, even if a student discloses an experience that occurred before attending UMBC and/or an incident that only involves people not affiliated with UMBC.  Reports are required regardless of the amount of detail provided and even in instances where support has already been offered or received.
+
+While faculty members want to encourage you to share information related to your life experiences through discussion and written work, students should understand that faculty are required to report past and present sexual harassment, sexual assault, domestic and dating violence, stalking, and gender discrimination that is shared with them to the Title IX Coordinator so that the University can inform students of their rights, resources, and support.  While you are encouraged to do so, you are not obligated to respond to outreach conducted as a result of a report to the Title IX Coordinator.
+
+If you need to speak with someone in confidence, who does not have an obligation to report to the Title IX Coordinator, UMBC has a number of Confidential Resources available to support you: 
+
+Retriever Integrated Health (Main Campus): 410-455-2472; Monday – Friday 8:30 a.m. – 5 p.m.; For After-Hours Support, Call 988.
+
+Center for Counseling and Well-Being (Shady Grove Campus): 301-738-6273; Monday-Thursday 10:00a.m. – 7:00 p.m. and Friday 10:00 a.m. – 2:00 p.m. (virtual) Online Appointment Request Form
+
+Pastoral Counseling via The Gathering Space for Spiritual Well-Being: 410-455-6795; i3b@umbc.edu; Monday – Friday 8:00 a.m. – 10:00 p.m.
+
+### Other Resources
+
+Women’s Center (open to students of all genders): 410-455-2714; womenscenter@umbc.edu; Monday – Thursday 9:30 a.m. – 5:00 p.m. and Friday 10:00 a.m. – 4 p.m.
+
+Shady Grove Student Resources, Maryland Resources, National Resources.
+
+### Child Abuse and Neglect
+
+Please note that Maryland law and UMBC policy require that faculty report all disclosures or suspicions of child abuse or neglect to the Department of Social Services and/or the police even if the person who experienced the abuse or neglect is now over 18.
+
+## Pregnant and Parenting Students
+UMBC’s Policy on Sexual Misconduct, Sexual Harassment and Gender Discrimination expressly prohibits all forms of discrimination and harassment on the basis of sex, including pregnancy. Resources for pregnant, parenting and breastfeeding students are available through the University’s Office of Equity and Civil Rights.  Pregnant and parenting students are encouraged to contact the Title IX Coordinator to discuss plans and ensure ongoing access to their academic program with respect to a leave of absence – returning following leave, or any other accommodation that may be needed related to pregnancy, childbirth, adoption, breastfeeding, and/or the early months of parenting.
+
+In addition, students who are pregnant and have an impairment related to their pregnancy that qualifies as disability under the ADA may be entitled to accommodations through the Office of Student Disability Services.
+
+## Religious Observances & Accommodations
+UMBC Policy provides that students should not be penalized because of observances of their religious beliefs, and that students shall be given an opportunity, whenever feasible, to make up within a reasonable time any academic assignment that is missed due to individual participation in religious observances. It is the responsibility of the student to inform the instructor of any intended absences or requested modifications for religious observances in advance, and as early as possible. For questions or guidance regarding religious observances and accommodations, please contact the Office of Equity and Civil Rights at ecr@umbc.edu.
+
+## Hate, Bias, Discrimination and Harassment
+UMBC values safety, cultural and ethnic diversity, social responsibility, lifelong learning, equity, and civic engagement.
+
+Consistent with these principles, UMBC Policy prohibits discrimination and harassment in its educational programs and activities or with respect to employment terms and conditions based on race, creed, color, religion, sex, gender, pregnancy, ancestry, age, gender identity or expression, national origin, veterans status, marital status, sexual orientation, physical or mental disability, or genetic information.
+
+Students (and faculty and staff) who experience discrimination, harassment, hate, or bias based upon a protected status or who have such matters reported to them should use the online reporting/referral form to report discrimination, hate, or bias incidents. You may report incidents that happen to you anonymously. Please note that, if you report anonymously, the University’s ability to respond may be limited.
