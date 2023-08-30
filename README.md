@@ -9,7 +9,7 @@ DATA 602-04 (5157)
 
 DATA 602-07 (7598)
   - Tuesday: 6:10PM - 8:40PM
-  - TBD
+  - Interdisciplinary Life Sciences 101
   - When Online: Link will be shared via Blackboard
 
 ## Instructor Mehmet Sarica
