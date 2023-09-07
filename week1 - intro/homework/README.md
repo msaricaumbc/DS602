@@ -31,7 +31,7 @@ Now we are good to start Homework 1
 
 1. Now you are ready to start your homework week1.
 1. Create a folder __week01__ in your repo root. 
-2. Download the homework file into this __week01__ folder. 
+2. Download the homework file from https://drive.google.com/drive/folders/1bSZMqxyR0afuPtAFnINoGyOiEs6wrvGi into this __week01__ folder. 
 3. Complete the homework in jupyter notebook.
 4. Commit the changes & push 
    * If you need to change anything... again commit & push before the homework due date.
