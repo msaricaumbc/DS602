@@ -1,4 +1,4 @@
-# Week 4 (Due date: Oct 15, 2023 11:59PM)
+# Week 5 (Due date: Oct 15, 2023 11:59PM)
 
 1. Please create a `Week05` folder in the root folder of your repo.
 2. Download/copy the files from https://drive.google.com/drive/folders/1M_RqbFXB7e2mc6noUZhGKC7FIFOAh0Dg into `Week05` folder in your repo. 
