@@ -1,6 +1,6 @@
 # Final
 
-Original dataset for documentation: https://archive.ics.uci.edu/dataset/20/census+income
+Original dataset for documentation: https://archive.ics.uci.edu/dataset/20/census+income (DO NOT USE THIS DATA)
 
 Use the data from the following location: 
 https://github.com/msaricaumbc/DS_data/tree/master/ds602/final2
